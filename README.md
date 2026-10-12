@@ -7,6 +7,13 @@
 ██║   ██║██╔══██║██╔══██╗██╔══╝
 ╚██████╔╝██║  ██║██████╔╝███████╗
  ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚══════╝
+
+       =[ gabe-framework v6.6.6-dev                ]
++ -- --=[ 23 repos - 8 languages - 0 regrets       ]
++ -- --=[ offsec research | openreel | atproto     ]
++ -- --=[ github.com/gabeedwards1                  ]
+
+gabe > _
 ```
 
 <a href="https://gabeedwards.com">
