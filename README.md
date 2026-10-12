@@ -9,8 +9,9 @@
  ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚══════╝
 
        =[ gabe-framework v6.6.6-dev                ]
-+ -- --=[ 23 repos - 8 languages - 0 regrets       ]
-+ -- --=[ offsec research | openreel | atproto     ]
++ -- --=[ 23 repos - 8 languages                   ]
++ -- --=[ 2 exploits - 1 payloads                  ]
++ -- --=[ offsec research | openreel | ios dev     ]
 + -- --=[ github.com/gabeedwards1                  ]
 
 gabe > _
