@@ -10,7 +10,7 @@
 ```
 
 <a href="https://gabeedwards.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=640&lines=%3E+initializing+gabe.exe...;%3E+CS+student+%40+Mizzou+%F0%9F%90%AF;%3E+breaking+things+to+learn+how+they+work;%3E+sudo+make+me+a+sandwich;%3E+access+granted_" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=640&lines=%3E+initializing+gabe.exe...;%3E+CS+student+%40+Mizzou;%3E+breaking+things+to+learn+how+they+work;%3E+access+granted_" alt="typing" />
 </a>
 
 </div>
@@ -22,7 +22,6 @@ gabe@mizzou:~$ whoami
 gabe edwards — computer science student @ university of missouri
 
 gabe@mizzou:~$ cat /etc/motd
-  [+] writes code in the terminal, debugs it in the terminal, cries in the terminal
   [+] cybersec SIG member — builds labs, pokes at systems, reads the logs
   [+] ships iOS apps, RL environments, parsers, and the occasional OS
   [+] currently: surviving operating systems & algorithms
