@@ -2,10 +2,6 @@
 
 <img src="banner.png" alt="Gabe Edwards" width="100%" />
 
-<a href="https://gabeedwards.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=640&lines=%3E+initializing+gabe.exe...;%3E+CS+student+%40+Mizzou;%3E+breaking+things+to+learn+how+they+work;%3E+access+granted_" alt="typing" />
-</a>
-
 </div>
 
 ---
@@ -66,10 +62,6 @@ gabe@mizzou:~$ cat /etc/motd
   <br/>
   <img src="https://streak-stats.demolab.com?user=gabeedwards1&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=21262d" />
 </div>
-
-## `> tail -f /var/log/activity`
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gabeedwards1&bg_color=0d1117&color=00FF41&line=00FF41&point=c9d1d9&area=true&area_color=00FF41&hide_border=true" />
 
 ## `> ping gabe`
 
