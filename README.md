@@ -24,12 +24,13 @@ gabe edwards — computer science student @ university of missouri
 gabe@mizzou:~$ cat /etc/motd
   [+] cybersec SIG member — builds labs, pokes at systems, reads the logs
   [+] ships iOS apps, RL environments, parsers, and the occasional OS
-  [+] currently: surviving operating systems & algorithms
+  [+] running: offsec research, openreel — decentralized video on atproto
 ```
 
 ## `> ls ~/projects --featured`
 
 ```diff
++ openreel              [TypeScript]  open-source short-form video on the AT Protocol
 + HomeGame              [Swift]       iOS app for home poker nights — buy-ins, cash-outs, who owes who
 + cybersec-sig-labs     [Python]      interactive cybersecurity labs for the Mizzou SIG
 + Tigerhacks-2025       [Python]      reinforcement learning environment, built at TigerHacks
@@ -40,6 +41,7 @@ gabe@mizzou:~$ cat /etc/motd
 
 | repo | what it does |
 | --- | --- |
+| [**openreel**](https://github.com/OpenReelSocial/openreel) | Open-source short-form video on the AT Protocol. Own your account, pick your algorithm |
 | [**HomeGame**](https://github.com/gabeedwards1/HomeGame) | Track home poker games and settle up without the math fight |
 | [**cybersec-sig-labs**](https://github.com/gabeedwards1/cybersec-sig-labs) | Hands-on security labs for the Cybersecurity SIG |
 | [**Tigerhacks-2025**](https://github.com/gabeedwards1/Tigerhacks-2025) | RL environment from TigerHacks 2025 |
